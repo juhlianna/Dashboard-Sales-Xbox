@@ -6,7 +6,7 @@ Projeto desenvolvido no Microsoft Excel, utilizando uma base de dados com inform
 Apresentar de forma clara e funcional o total de vendas dos produtos selecionados, através de um dashboard dinâmico e interativo.
 
 ## 📁 Estrutura do Arquivo
-Planilha "Base de Dados"  
+### Planilha "Base de Dados"  
 Contém os dados brutos de vendas, incluindo:
 
 Data da venda
@@ -21,7 +21,7 @@ Região / Estado
 
 Canal de venda
 
-Planilha "Dashboard"  
+### Planilha "Dashboard"  
 Painel visual com gráficos e segmentações para análise dinâmica.
 
 ## 📌 Recursos Utilizados
