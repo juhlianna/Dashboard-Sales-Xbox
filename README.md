@@ -1,18 +1,13 @@
-📊 ##Dashboard de Vendas - Linha Xbox
-Projeto desenvolvido no Microsoft Excel, utilizando uma base de dados com informações de vendas de produtos da linha Xbox, com foco em Game Pass, Minecraft, EA Play e outros títulos relevantes.
+📊 Dashboard de Vendas - Xbox
+📌 Descrição
+Projeto desenvolvido no Microsoft Excel, utilizando uma base de dados com informações de vendas de produtos da linha Xbox, com foco em Game Pass, Minecraft e EA Play.
 
 🎯 Objetivo
-Fornecer uma visão clara e interativa sobre o desempenho das vendas dos produtos Xbox, permitindo:
-
-Identificação de tendências por período.
-
-Comparação entre diferentes produtos e serviços.
-
-Análise por região e canal de venda.
-
+Apresentar de forma clara e funcional o total de vendas dos produtos selecionados, através de um dashboard dinâmico e interativo.
 
 📁 Estrutura do Arquivo
-Planilha "Base de Dados": Contém os dados brutos de vendas, incluindo:
+Planilha "Base de Dados"  
+Contém os dados brutos de vendas, incluindo:
 
 Data da venda
 
@@ -24,31 +19,27 @@ Valor total da transação
 
 Região / Estado
 
-Canal de venda (online, físico, parceiro)
+Canal de venda
 
-Planilha "Dashboard": Painel visual com gráficos e segmentações, permitindo análise dinâmica.
-
+Planilha "Dashboard"  
+Painel visual com gráficos e segmentações para análise dinâmica.
 
 📌 Recursos Utilizados
-📈 Tabelas Dinâmicas
-
-Resumo por Produto: Quantidade e valor total de vendas.
+1. 📈 Tabelas Dinâmicas
+Resumo por Produto: Total de vendas e quantidade por produto.
 
 Resumo por Região: Distribuição geográfica das vendas.
 
 Resumo por Canal: Comparação entre canais de venda.
 
-
-📊 Gráficos Dinâmicos
-
+2. 📊 Gráficos Dinâmicos
 Barras: Comparação de vendas entre produtos.
 
 Pizza: Percentual de participação por produto.
 
 Linha: Evolução das vendas ao longo do tempo.
 
-🧩 Segmentação de Dados
-
+3. 🧩 Segmentação de Dados
 Filtros aplicáveis diretamente no dashboard:
 
 Período de aquisição
@@ -58,3 +49,19 @@ Região
 Canal de venda
 
 Produto específico
+
+🚀 Benefícios
+Visualização rápida e intuitiva dos principais indicadores.
+
+Facilidade para identificar produtos com maior representatividade.
+
+Suporte à tomada de decisão estratégica com base em dados reais.
+
+🛠️ Tecnologias
+Microsoft Excel
+
+Tabelas Dinâmicas
+
+Gráficos Dinâmicos
+
+Segmentação de Dados
