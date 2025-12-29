@@ -50,14 +50,14 @@ Canal de venda
 
 Produto específico
 
-🚀 Benefícios
+## 🚀 Benefícios
 Visualização rápida e intuitiva dos principais indicadores.
 
 Facilidade para identificar produtos com maior representatividade.
 
 Suporte à tomada de decisão estratégica com base em dados reais.
 
-🛠️ Tecnologias
+## 🛠️ Tecnologias
 Microsoft Excel
 
 Tabelas Dinâmicas
