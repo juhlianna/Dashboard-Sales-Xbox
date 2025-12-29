@@ -10,6 +10,7 @@ Comparação entre diferentes produtos e serviços.
 
 Análise por região e canal de venda.
 
+
 📁 Estrutura do Arquivo
 Planilha "Base de Dados": Contém os dados brutos de vendas, incluindo:
 
@@ -27,6 +28,7 @@ Canal de venda (online, físico, parceiro)
 
 Planilha "Dashboard": Painel visual com gráficos e segmentações, permitindo análise dinâmica.
 
+
 📌 Recursos Utilizados
 📈 Tabelas Dinâmicas
 
@@ -35,6 +37,7 @@ Resumo por Produto: Quantidade e valor total de vendas.
 Resumo por Região: Distribuição geográfica das vendas.
 
 Resumo por Canal: Comparação entre canais de venda.
+
 
 📊 Gráficos Dinâmicos
 
