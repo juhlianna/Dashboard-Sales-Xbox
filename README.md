@@ -1,11 +1,11 @@
 # 📊 Dashboard de Vendas - Xbox
-📌 Descrição
+## 📌 Descrição
 Projeto desenvolvido no Microsoft Excel, utilizando uma base de dados com informações de vendas de produtos da linha Xbox, com foco em Game Pass, Minecraft e EA Play.
 
-🎯 Objetivo
+## 🎯 Objetivo
 Apresentar de forma clara e funcional o total de vendas dos produtos selecionados, através de um dashboard dinâmico e interativo.
 
-📁 Estrutura do Arquivo
+## 📁 Estrutura do Arquivo
 Planilha "Base de Dados"  
 Contém os dados brutos de vendas, incluindo:
 
@@ -24,7 +24,7 @@ Canal de venda
 Planilha "Dashboard"  
 Painel visual com gráficos e segmentações para análise dinâmica.
 
-📌 Recursos Utilizados
+## 📌 Recursos Utilizados
 1. 📈 Tabelas Dinâmicas
 Resumo por Produto: Total de vendas e quantidade por produto.
 
